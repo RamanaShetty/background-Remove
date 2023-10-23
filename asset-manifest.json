@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/background-Remove/static/css/main.17587a6e.css",
+    "main.js": "/background-Remove/static/js/main.e09623e9.js",
+    "index.html": "/background-Remove/index.html",
+    "main.17587a6e.css.map": "/background-Remove/static/css/main.17587a6e.css.map",
+    "main.e09623e9.js.map": "/background-Remove/static/js/main.e09623e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17587a6e.css",
+    "static/js/main.e09623e9.js"
+  ]
+}
