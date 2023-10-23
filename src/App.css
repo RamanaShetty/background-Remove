@@ -47,4 +47,11 @@ button {
   font-weight: bold;
   border: solid 2px;
   outline: none;
+  transform: scale(1);
+}
+
+button:hover{
+  cursor: pointer;
+  transform: scale(0.9);
+  transition: 0.2s;
 }
