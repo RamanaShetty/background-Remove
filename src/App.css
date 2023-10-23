@@ -1,39 +1,39 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body{
+body {
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: #DFD7BF;
+  background-color: #dfd7bf;
 }
 
-.container{
+.container {
   display: flex;
   flex-direction: column;
   border: solid 2px;
-  background-color: #F2EAD3;
+  background-color: #f2ead3;
   border-radius: 2rem;
   box-shadow: 10px;
   padding: 20px;
 }
 
-h2{
+h2 {
   margin-bottom: 1rem;
-  color: #3F2305;
+  color: #3f2305;
 }
 
-input{
+input {
   border: solid 1px;
   padding: 5px;
-  margin-bottom: 1rem; 
+  margin-bottom: 1rem;
 }
 
-.btn-download{
+.btn-download {
   display: flex;
   justify-content: space-between;
 }
@@ -42,15 +42,15 @@ button {
   /* width: 100%; */
   padding: 0.3rem 0.5rem;
   border-radius: 0.45rem;
-  background-color: #3F2305;
-  color: #F2EAD3;
+  background-color: #3f2305;
+  color: #f2ead3;
   font-weight: bold;
   border: solid 2px;
   outline: none;
   transform: scale(1);
 }
 
-button:hover{
+button:hover {
   cursor: pointer;
   transform: scale(0.9);
   transition: 0.2s;
